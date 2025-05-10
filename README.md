@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/a208b8fc-6d34-4f2d-bd0a-3a529d8f1382
 # IoT25-HW03
 
 
